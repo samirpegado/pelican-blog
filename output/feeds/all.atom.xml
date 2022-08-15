@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>samirpegado.github.io</title><link href="https://samirpegado.github.io/" rel="alternate"></link><link href="https://samirpegado.github.io/feeds/all.atom.xml" rel="self"></link><id>https://samirpegado.github.io/</id><updated>2022-08-14T15:04:00+02:00</updated><entry><title>Primeiro Post</title><link href="https://samirpegado.github.io/primeiro-post.html" rel="alternate"></link><published>2022-08-14T15:04:00+02:00</published><updated>2022-08-14T15:04:00+02:00</updated><author><name>Samir Pegado</name></author><id>tag:samirpegado.github.io,2022-08-14:/primeiro-post.html</id><content type="html">&lt;h1&gt;Olá!&lt;/h1&gt;
+&lt;p&gt;Este é o meu primeiro post&lt;/p&gt;
+&lt;p&gt;Isto é um [link] (#)&lt;/p&gt;
+&lt;p&gt;É muito &lt;strong&gt;fácil&lt;/strong&gt; criar posts com o &lt;strong&gt;Pelican&lt;/strong&gt;!&lt;/p&gt;</content><category term="Geral"></category><category term="Geral"></category></entry></feed>
